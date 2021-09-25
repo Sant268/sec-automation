@@ -1,2 +1,2 @@
 # sec-automation
-Py Automation for common enum
+Py Automation for common pentesting network enumeration
